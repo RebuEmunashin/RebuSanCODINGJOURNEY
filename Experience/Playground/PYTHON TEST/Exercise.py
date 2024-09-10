@@ -32,7 +32,7 @@
 tempurature = input('Enter the temperature')
 unit = input('Enter unit of measurement (Celsius or Fahrenheit?)')
 
-if unit == 'Celsius':
+if unit.lower() == 'Celsius':
     input_celsius = input('How many celsius?')
 
     def Celsius_to_fahrenheit(Celsius):
@@ -43,7 +43,7 @@ if unit == 'Celsius':
     c_to_f_con = Celsius_to_fahrenheit(Celsius)
     print('The tempurature in Fahrenheit is: ', c_to_f_con)
 
-elif unit == 'Fahrenheit':
+elif unit.lower() == 'Fahrenheit':
     input_fahrenheit = input('How many fahrenheit?')
 
     def fahrenheit_to_Celsius(fahrenheit):
