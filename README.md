@@ -1,4 +1,4 @@
-# MindDump
+# Coding Journey
 this is where I put every ideas in unsorted manner
 
 ## Goal
