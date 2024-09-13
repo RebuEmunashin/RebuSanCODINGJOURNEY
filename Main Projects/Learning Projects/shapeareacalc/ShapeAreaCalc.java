@@ -1,10 +1,10 @@
-package Java.Projects.shapeareacalc;
+package Java.Main.Projects.Learning Projects.shapeareacalc;
 import java.util.Scanner;
 
 
 /*UPGRADE CHALLENGE: Autocorrection system in order to lessen invalid input as an output
 */
-//TODO: Learn webscraping and databases for huge amounts OF POSSIBLE TYPO WORDS
+//TODO: Learn webscraping and databases for huge amounts OF POSSIBLE TYPO WORDS (autocorrection system)
 //TODO: But first  Learn  DSA to know Levenshtein distance algorithm and Trie Data Structure
 public class ShapeAreaCalc {
     public static void main(String[] args) {
