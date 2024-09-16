@@ -13,7 +13,6 @@ this is where I put every ideas in unsorted manner
     * Calculator in Java
     * Trivia Quiz (With Randomizer, DB, )
     * Recreate Excel Functions via Java
-    * To Do Lists
     * Schoo Org Sys Web (w/API application)
     
    
