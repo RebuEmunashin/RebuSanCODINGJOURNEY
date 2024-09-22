@@ -42,7 +42,7 @@ Find (questions, structuring, structured condition, )
     FORMULA
     Topics:
     Coverages:
-        Conditions (difficulty, cases):
+        Conditions (difficulty, edge cases):
 
     Make a (number of items) Test/quiz style: (multiple choices, identification, coding exercise)
 
