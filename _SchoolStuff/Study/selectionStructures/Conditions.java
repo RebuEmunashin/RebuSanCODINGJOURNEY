@@ -45,7 +45,7 @@ public class Conditions {
                     System.out.println("You are a guest");
             }
             //if statement version
-            if (role.equals("admin").toLowerCase().equals("admin")) {
+            if (role.equals("admin")) {
                 System.out.println("Admin");
             }
             else if (role.equals("moderator")) { 
