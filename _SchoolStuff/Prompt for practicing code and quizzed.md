@@ -44,7 +44,7 @@ Find (questions, structuring, structured condition, )
     Coverages:
         Conditions (difficulty, cases):
 
-    Test/quiz style: (multiple choices, identification, coding exercise)
+    Make a (number of items) Test/quiz style: (multiple choices, identification, coding exercise)
 
 
 1. Hello, I want you to follow the subject, coverage and prompt mentioned below:
