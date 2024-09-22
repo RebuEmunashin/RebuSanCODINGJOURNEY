@@ -41,10 +41,11 @@ Find (questions, structuring, structured condition, )
 
     FORMULA
     Topics:
-    Coverages:
-        Conditions (difficulty, edge cases):
+    Coverages: (specifications of the Topic)
+        Conditions (easy and intermediate difficulty, problem solving, edge cases):
 
-    Make a (number of items) Test/quiz style: (multiple choices, identification, coding exercise)
+    Number of Items: 
+    Test/quiz style: (multiple choices, identification, coding exercise)
 
 
 1. Hello, I want you to follow the subject, coverage and prompt mentioned below:
