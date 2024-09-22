@@ -1,4 +1,4 @@
-package Java.Projects.shapeareacalc;
+package Java.Main.Projects.Learning.Projects.shapeareacalc;
 
 import java.util.Scanner;
 
