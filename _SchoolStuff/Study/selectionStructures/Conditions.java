@@ -37,7 +37,7 @@ public class Conditions {
             switch (role) {
                 case "admin":
                     System.out.println("Admin");
-                    break; //break is important to jump out of the switch statement
+                    break; //break is important to jump out of the switch statement or else it will leak and proceed to jump to the next case
                 case "moderator":
                     System.out.println("Moderator");
                     break;

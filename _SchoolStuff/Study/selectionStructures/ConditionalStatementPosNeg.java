@@ -6,14 +6,14 @@ public class ConditionalStatementPosNeg {
         int num;
 
 
-        System.out.println("Input a number: ");
+        System.out.print("Input a number: ");
         num = scan.nextInt();
         if (num > 0) {
             System.out.println("\n" + num + " is a Positive number.");
         } else if (num < 0) {
-            System.out.println("\n" + num + " is a Negative number.");
+            System.out.println("\n" + num + " is a Negative number."); // if no else statement (0 is negative)
         } else {
-            System.out.println("Number is a Zero.");
+            System.out.println("Number is a origin.");
         }
 
         System.out.println("Program terminates");

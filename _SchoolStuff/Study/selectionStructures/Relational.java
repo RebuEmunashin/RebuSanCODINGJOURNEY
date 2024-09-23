@@ -14,8 +14,8 @@ public class Relational {
         boolean IntegerLess;
 
         IntegerEqual = x == y;
-        IntegerLess = x < y;
-        IntegerGreater = x > y;
+        IntegerLess = x < y; //strong condition (< > only )
+        IntegerGreater = x > y; //weight condition (<= >= only)
 
         System.out.println(IntegerEqual);
         System.out.println(IntegerLess);
