@@ -9,7 +9,7 @@ this is where I put every ideas in unsorted manner
 
 ## What to put right now
   - [ ]  small learning projects
-    - [ ]  Calculator in Java
+    - [ ]  Calculator in Jav
     - [ ]  Trivia Quiz (With Randomizer, DB, )
     - [ ]  Recreate Excel Functions via Java
     - [ ]  To Do Lists
